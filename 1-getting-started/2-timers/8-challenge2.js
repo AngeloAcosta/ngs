@@ -21,7 +21,7 @@ const myF = () =>{
 
     if (counter == 5){
         console.log("Done!");
-        // clearInterval(timerId);
+        clearInterval(timerId);
     }
 }
 
